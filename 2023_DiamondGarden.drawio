@@ -1,0 +1,19 @@
+<mxfile host="app.diagrams.net" modified="2023-05-06T14:39:53.304Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0" etag="uzRvWyTIXqJLG8VyzaIl" version="21.2.9" type="github">
+  <diagram name="Page-1" id="4MP_wHTS5IgblKxHbQpP">
+    <mxGraphModel dx="1420" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bcS_UFgCMEz7GKeuc2ld-8" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.polygon;polyCoords=[[0.21,0.13],[0.6,0.38],[0.92,0.6],[0.66,1],[0.48,1],[0.25,1],[0,1],[0,0]];polyline=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
+          <mxGeometry x="160" y="240" width="520" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="bcS_UFgCMEz7GKeuc2ld-10" value="&lt;div style=&quot;font-size: 24px;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Rear of Property&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
+          <mxGeometry x="365" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bcS_UFgCMEz7GKeuc2ld-11" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Walkway&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
+          <mxGeometry x="640" y="780" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
