@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-06T16:31:22.110Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0" etag="f63h6nhistCsck2g9A4O" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-06T16:45:05.414Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0" etag="hm7RbsRY-bWi1N0oJwox" version="21.2.9" type="github">
   <diagram name="Page-1" id="4MP_wHTS5IgblKxHbQpP">
-    <mxGraphModel dx="2428" dy="1917" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2085" dy="1739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -61,7 +61,7 @@
         <mxCell id="onrP9M23zTc9Jmrbzn4V-23" value="Echinacea" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/icons-for-a-site-1/64/advantage_eco_friendly-128.png;container=0;" parent="iHK89jVl_XGPjr_3aYdO-12" vertex="1">
           <mxGeometry width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iHK89jVl_XGPjr_3aYdO-30" value="Mint &amp;amp; Strawberry" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="iHK89jVl_XGPjr_3aYdO-12">
+        <mxCell id="iHK89jVl_XGPjr_3aYdO-30" value="Peppermint" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="iHK89jVl_XGPjr_3aYdO-12">
           <mxGeometry x="410" y="260" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iHK89jVl_XGPjr_3aYdO-29" value="Chocolate Mint" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="iHK89jVl_XGPjr_3aYdO-12">
@@ -128,7 +128,7 @@
           <mxGeometry x="113.30127018922195" y="80" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iHK89jVl_XGPjr_3aYdO-27" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-810" y="1160" width="80" height="636.44" as="geometry" />
+          <mxGeometry x="-810" y="1160" width="117" height="652.72" as="geometry" />
         </mxCell>
         <mxCell id="YDw4J4Mv-UTdzmyMiHi0-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;container=0;" parent="iHK89jVl_XGPjr_3aYdO-27" vertex="1">
           <mxGeometry x="10" y="36.440000000000055" width="70" height="600" as="geometry" />
@@ -139,14 +139,8 @@
         <mxCell id="iHK89jVl_XGPjr_3aYdO-16" value="Nadapeno" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;image=https://cdn4.iconfinder.com/data/icons/fruits-and-veggies-2/280/fruits-and-veggies-icons_chilli-pepper-128.png;aspect=fixed;container=0;" vertex="1" parent="iHK89jVl_XGPjr_3aYdO-27">
           <mxGeometry x="10" y="36.440000000000055" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iHK89jVl_XGPjr_3aYdO-17" value="Bell Pepper" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;image=https://cdn2.iconfinder.com/data/icons/free-outline-fruit-by-ibrahim-studio/100/Pepper-128.png;container=0;" vertex="1" parent="iHK89jVl_XGPjr_3aYdO-27">
-          <mxGeometry x="10" y="456.44000000000005" width="60" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="iHK89jVl_XGPjr_3aYdO-18" value="Mini Bell Pepper" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;image=https://cdn2.iconfinder.com/data/icons/free-outline-fruit-by-ibrahim-studio/100/Pepper-128.png;container=0;" vertex="1" parent="iHK89jVl_XGPjr_3aYdO-27">
           <mxGeometry x="10" y="336.44000000000005" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="iHK89jVl_XGPjr_3aYdO-19" value="Jalapeno" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;image=https://cdn4.iconfinder.com/data/icons/fruits-and-veggies-2/280/fruits-and-veggies-icons_chilli-pepper-128.png;aspect=fixed;container=0;" vertex="1" parent="iHK89jVl_XGPjr_3aYdO-27">
-          <mxGeometry x="10" y="516.44" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iHK89jVl_XGPjr_3aYdO-20" value="Anaheim Pepper" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;image=https://cdn2.iconfinder.com/data/icons/free-outline-fruit-by-ibrahim-studio/100/Pepper-128.png;container=0;" vertex="1" parent="iHK89jVl_XGPjr_3aYdO-27">
           <mxGeometry x="10" y="216.44000000000005" width="60" height="60" as="geometry" />
@@ -162,6 +156,33 @@
         </mxCell>
         <mxCell id="iHK89jVl_XGPjr_3aYdO-23" value="Mini Bell Pepper" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;image=https://cdn2.iconfinder.com/data/icons/free-outline-fruit-by-ibrahim-studio/100/Pepper-128.png;container=0;" vertex="1" parent="iHK89jVl_XGPjr_3aYdO-27">
           <mxGeometry x="10" y="396.44000000000005" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iHK89jVl_XGPjr_3aYdO-39" value="Cucumber" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;image=https://cdn4.iconfinder.com/data/icons/fruits-and-veggies-2/272/fruits-and-veggies-icons_cucumber-128.png;rotation=-90;" vertex="1" parent="iHK89jVl_XGPjr_3aYdO-27">
+          <mxGeometry x="26.28" y="580.16" width="40" height="72.56" as="geometry" />
+        </mxCell>
+        <mxCell id="iHK89jVl_XGPjr_3aYdO-40" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.stairs;" vertex="1" parent="iHK89jVl_XGPjr_3aYdO-27">
+          <mxGeometry x="10" y="600" width="70" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="iHK89jVl_XGPjr_3aYdO-32" value="Lavender" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/icons-for-a-site-1/64/advantage_eco_friendly-128.png;container=0;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="80" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iHK89jVl_XGPjr_3aYdO-33" value="&lt;div&gt;Pot Needed&lt;br&gt;&lt;/div&gt;&lt;div&gt;Mint&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iHK89jVl_XGPjr_3aYdO-34" value="Empty" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-580" y="1360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iHK89jVl_XGPjr_3aYdO-35" value="Sage" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iHK89jVl_XGPjr_3aYdO-36" value="Oregano" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="385" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iHK89jVl_XGPjr_3aYdO-37" value="Rosemary" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iHK89jVl_XGPjr_3aYdO-38" value="&lt;h1&gt;Find Homes For&lt;br&gt;&lt;/h1&gt;&lt;p&gt;- Lemon Balm, ideally a pot&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="-330" width="190" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
